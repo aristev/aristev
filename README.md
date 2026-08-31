@@ -1,4 +1,4 @@
-# Hi there, I'm Ariel! 💻
+# Hi there, I'm Ariel! <img src="https://media.giphy.com/media/aJ7b6gJ7mXb8vWbT00/giphy.gif" alt="animated laptop with running code" width="35" style="vertical-align: middle;">
 
 I'm a Computer Science student passionate about software engineering, system architecture, and mobile development. I love turning complex algorithmic challenges into elegant, functional, and scalable applications. Constantly exploring modern technologies, sharpening my problem-solving skills, and committed to writing clean, maintainable, and efficient code.
 
