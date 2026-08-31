@@ -1,10 +1,8 @@
-# Hi there, I'm Ariel!
-
-![wave](https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc9c0.gif)
+# Hi there, I'm Ariel! <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35px" style="vertical-align: middle;">
 
 I'm a Computer Science student passionate about software engineering, system architecture, and mobile development. I love turning complex algorithmic challenges into elegant, functional, and scalable applications. Constantly exploring modern technologies, sharpening my problem-solving skills, and committed to writing clean, maintainable, and efficient code.
 
-
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -20,7 +18,7 @@ I'm a Computer Science student passionate about software engineering, system arc
 [![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-
+---
 
 ## 🌐 Let's Connect!
 
