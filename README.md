@@ -1,6 +1,4 @@
-# Hi there, I'm Ariel!
-
-<img src="https://raw.githubusercontent.com/klaus-ts/klaus-ts/main/assets/bot.gif" width="45px">
+# Hi there, I'm Ariel! <img src="https://raw.githubusercontent.com/tonybaloney/vscode-pets/main/media/cat/gray_idle_8fps.gif" width="35px">
 
 I'm a Computer Science student passionate about software engineering, system architecture, and mobile development. I love turning complex algorithmic challenges into elegant, functional, and scalable applications. Constantly exploring modern technologies, sharpening my problem-solving skills, and committed to writing clean, maintainable, and efficient code.
 
