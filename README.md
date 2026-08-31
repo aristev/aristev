@@ -2,7 +2,7 @@
 
 I'm a Computer Science student passionate about software engineering, system architecture, and mobile development. I love turning complex algorithmic challenges into elegant, functional, and scalable applications. Constantly exploring modern technologies, sharpening my problem-solving skills, and committed to writing clean, maintainable, and efficient code.
 
----
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -18,7 +18,7 @@ I'm a Computer Science student passionate about software engineering, system arc
 [![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
----
+
 
 ## 🌐 Let's Connect!
 
