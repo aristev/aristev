@@ -1,4 +1,4 @@
-# Hi there, I'm Ariel! <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-472f-b0b6-140798a07137.gif" width="35px" style="vertical-align: middle;">
+# Hi there, I'm Ariel! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="35px">
 
 I'm a Computer Science student passionate about software engineering, system architecture, and mobile development. I love turning complex algorithmic challenges into elegant, functional, and scalable applications. Constantly exploring modern technologies, sharpening my problem-solving skills, and committed to writing clean, maintainable, and efficient code.
 
