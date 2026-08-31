@@ -2,7 +2,6 @@
 
 I'm a Computer Science & Engineering student at **ESPOL**. Passionate about software architecture, algorithms, and mobile development.
 
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -18,7 +17,6 @@ I'm a Computer Science & Engineering student at **ESPOL**. Passionate about soft
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
 
 ### 🌐 Let's Connect!
 
