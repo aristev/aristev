@@ -1,6 +1,6 @@
 # Hi there, I'm Ariel!
 
-![cat](https://raw.githubusercontent.com/tonybaloney/vscode-pets/master/media/cat/cat_orange_idle.gif)
+![wave](https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc9c0.gif)
 
 I'm a Computer Science student passionate about software engineering, system architecture, and mobile development. I love turning complex algorithmic challenges into elegant, functional, and scalable applications. Constantly exploring modern technologies, sharpening my problem-solving skills, and committed to writing clean, maintainable, and efficient code.
 
